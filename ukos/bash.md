@@ -1,1 +1,0 @@
-bash to fajne narzedzie
