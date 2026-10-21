@@ -1,1 +1,1 @@
- „Dodaj ostrzeżenie, że rm usuwa pliki bez kosza”
+ Dodaj ostrzeżenie, że rm usuwa pliki bez kosza
